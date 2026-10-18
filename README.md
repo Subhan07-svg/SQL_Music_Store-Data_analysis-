@@ -116,3 +116,6 @@ The project is a part of my learning journey in **Data Analytics**, where I am d
 **Project Name:** Music Store Data Analysis  
 **Domain:** Data Analytics  
 **Primary Tool:** SQL
+<p align="center">
+  <img src="schema_diagram.png"/>
+</p>
